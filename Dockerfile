@@ -1,4 +1,4 @@
-FROM pranathipranu / apache
+FROM pranathipranu/apache
 
 RUN rm /var/www/html/index.html
 
