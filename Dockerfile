@@ -1,4 +1,4 @@
-FROM hshar/webapp
+FROM pranathipranu / apache
 
 RUN rm /var/www/html/index.html
 
